@@ -8,6 +8,9 @@ We started project log from chapter 3, as long as chapters 1 and 2 are introduct
 
 Inside the chapters the exercises do not start from number 1, because in the structure of ISLRv2 book the exercises contains two parts with continues numbering: conceptual (theoretical) and applied (lab) - only the second part is implemented as Jupiter Notebooks in this project.
 
+## Project status is on-going:
+* chapter 3: exercises 8,9.
+
 ## Reason and goals
 
 The ISLRv2 book itself uses R for applied part, which is not mastered by Python-DA/DS people like me, yet we also want to feel practical side of the book's theory.
