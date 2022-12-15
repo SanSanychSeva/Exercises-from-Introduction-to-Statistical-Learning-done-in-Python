@@ -12,13 +12,17 @@ Inside the chapters the exercises do not start from number 1, because in the str
 
 The ISLRv2 book itself uses R for applied part, which is not mastered by Python-DA/DS people like me, yet we also want to feel practical side of the book's theory.
 
-There is no goal to port the available for download from the ISLRv2 authors' site the R-coded-Notebooks so that Python can run it - this task can be better addressed by using dedicated Python libraries supporting R-style of syntax.
+There is no goal to port the available for download from the ISLRv2 authors' site the R-coded-Notebooks so that Python could have run it - this task can be better addressed by using dedicated Python libraries supporting R-style of syntax.
 
 The goal is to fulfill ISLRv2 applied exercises by using basic DA/DS libraries like NimPy, Pandas, SciPy and Sklearn as close as possible to the level expected by the ISLRv2 authors - to get practical feeling of ISLRv2 theory without any knowledge of R.
 
 ## Target Audience
 
 This project is for and by those, who do not plan to study R, yet want to get maximum from study of ISLRv2 book.  Any comments and contributions are welcome.
+
+## Compatibility issues
+
+the Jupiter Notebook files in this project were run OK the the Anaconda environment - its backup is also provided in this project <a href='https://github.com/SanSanychSeva/Exercises-from-Introduction-to-Statistical-Learning-done-in-Python/Anaconda3_env_config/'>here</a>.
 
 ## Disclaimer on legals and rights
 
