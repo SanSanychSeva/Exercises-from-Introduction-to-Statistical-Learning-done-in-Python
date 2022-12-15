@@ -22,7 +22,7 @@ This project is for and by those, who do not plan to study R, yet want to get ma
 
 ## Compatibility issues
 
-the Jupiter Notebook files in this project were run OK in the Anaconda environment - its backup is also provided in this project <a href='https://github.com/SanSanychSeva/Exercises-from-Introduction-to-Statistical-Learning-done-in-Python/Anaconda3_env_config'>here</a>.
+the Jupiter Notebook files in this project were run OK in the Anaconda environment - its backup is also provided in this project <a href='https://github.com/SanSanychSeva/Exercises-from-Introduction-to-Statistical-Learning-done-in-Python/tree/main/Anaconda3_env_config'>here</a>.
 
 ## Disclaimer on legals and rights
 
