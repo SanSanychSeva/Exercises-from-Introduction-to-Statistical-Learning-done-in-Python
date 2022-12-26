@@ -8,8 +8,9 @@ We started project log from chapter 3, as long as chapters 1 and 2 are introduct
 
 Inside the chapters the exercises do not start from number 1, because in the structure of ISLRv2 book the exercises contains two parts with continues numbering: conceptual (theoretical) and applied (lab) - only the second part is implemented as Jupiter Notebooks in this project.
 
-## Project status is on-going:
-* chapter 3: exercises 8,9,10,11,12.
+## Project status is on-going
+Here you are the ready parts:
+* chapter 3: list of analytical formulas for SLR, exercises 8,9,10,11,12.
 
 ## Reason and goals
 
