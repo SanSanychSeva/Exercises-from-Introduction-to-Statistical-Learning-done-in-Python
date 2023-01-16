@@ -11,8 +11,8 @@ Inside the chapters the exercises do not start from number 1, because in the str
 ## Project status is on-going
 Here you are the ready parts:
 * chapter 3:
- * list of analytical formulas for SLR, 
- * exercises 8,9,10,11,12,13,14.
+ a. list of analytical formulas for SLR,
+ b. exercises 8,9,10,11,12,13,14,15.
 
 ## Reason and goals
 
